@@ -25,6 +25,9 @@ documents that are a part of this guide:
 Code reviews should look at:
 
 -   **Design**: Is the code well-designed and appropriate for your system?
+
+    - https://github.com/sql-machine-learning/sqlflow/pull/1
+    
 -   **Functionality**: Does the code behave as the author likely intended? Is
     the way the code behaves good for its users?
 -   **Complexity**: Could the code be made simpler? Would another developer be
