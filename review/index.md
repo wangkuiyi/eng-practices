@@ -30,12 +30,21 @@ Code reviews should look at:
 -   **Complexity**: Could the code be made simpler? Would another developer be
     able to easily understand and use this code when they come across it in the
     future?
+    
+    - https://github.com/PaddlePaddle/Paddle/pull/2928#discussion_r127861858
+    
 -   **Tests**: Does the code have correct and well-designed automated tests?
 -   **Naming**: Did the developer choose clear names for variables, classes,
     methods, etc.?
+    
+    - https://github.com/PaddlePaddle/Paddle/pull/3585
+    
 -   **Comments**: Are the comments clear and useful?
 -   **Style**: Does the code follow our
     [style guides](http://google.github.io/styleguide/)?
+    
+    - https://github.com/PaddlePaddle/Paddle/pull/3587#discussion_r134116813
+    
 -   **Documentation**: Did the developer also update relevant documentation?
 
 See **[How To Do A Code Review](reviewer/)** for more information.
